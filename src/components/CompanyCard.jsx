@@ -11,14 +11,6 @@ export default function CompanyCard({ company }) {
           </h3>
         </div>
 
-        <a
-          href={company.website}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-blue-600 hover:text-blue-800 transition-colors"
-        >
-          <ExternalLink className="w-5 h-5" />
-        </a>
       </div>
 
       <div className="space-y-2 mb-4">

@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "TechCorp Solutions",
+    "location": "San Francisco",
+    "industry": "Technology",
+    "website": "https://techcorp.example.com",
+    "description": "Leading provider of cloud computing solutions and enterprise software."
+  },
+  {
+    "id": 2,
+    "name": "Global Finance Inc",
+    "location": "New York",
+    "industry": "Finance",
+    "website": "https://globalfinance.example.com",
+    "description": "International financial services firm specializing in investment banking."
+  },
+  {
+    "id": 3,
+    "name": "HealthCare Plus",
+    "location": "Boston",
+    "industry": "Healthcare",
+    "website": "https://healthcareplus.example.com",
+    "description": "Innovative healthcare technology and medical services provider."
+  },
+  {
+    "id": 4,
+    "name": "EduTech Systems",
+    "location": "Austin",
+    "industry": "Education",
+    "website": "https://edutech.example.com",
+    "description": "E-learning platform and educational technology solutions."
+  },
+  {
+    "id": 5,
+    "name": "RetailMax",
+    "location": "Chicago",
+    "industry": "Retail",
+    "website": "https://retailmax.example.com",
+    "description": "Multi-channel retail solutions and e-commerce platform."
+  },
+  {
+    "id": 6,
+    "name": "CloudNet Services",
+    "location": "Seattle",
+    "industry": "Technology",
+    "website": "https://cloudnet.example.com",
+    "description": "Cloud infrastructure and networking solutions for enterprises."
+  },
+  {
+    "id": 7,
+    "name": "Investment Partners LLC",
+    "location": "New York",
+    "industry": "Finance",
+    "website": "https://investmentpartners.example.com",
+    "description": "Asset management and investment advisory services."
+  },
+  {
+    "id": 8,
+    "name": "MedTech Innovations",
+    "location": "San Diego",
+    "industry": "Healthcare",
+    "website": "https://medtech.example.com",
+    "description": "Medical device manufacturer and healthcare IoT solutions."
+  },
+  {
+    "id": 9,
+    "name": "Digital Learning Co",
+    "location": "Boston",
+    "industry": "Education",
+    "website": "https://digitallearning.example.com",
+    "description": "Online course platform and corporate training solutions."
+  },
+  {
+    "id": 10,
+    "name": "ShopEasy Markets",
+    "location": "Los Angeles",
+    "industry": "Retail",
+    "website": "https://shopeasy.example.com",
+    "description": "Online marketplace connecting buyers and sellers worldwide."
+  },
+  {
+    "id": 11,
+    "name": "DataStream Analytics",
+    "location": "San Francisco",
+    "industry": "Technology",
+    "website": "https://datastream.example.com",
+    "description": "Big data analytics and business intelligence platform."
+  },
+  {
+    "id": 12,
+    "name": "WellCare Clinics",
+    "location": "Miami",
+    "industry": "Healthcare",
+    "website": "https://wellcare.example.com",
+    "description": "Network of primary care clinics and telehealth services."
+  },
+  {
+    "id": 13,
+    "name": "AutoDrive Technologies",
+    "location": "Detroit",
+    "industry": "Automotive",
+    "website": "https://autodrive.example.com",
+    "description": "Autonomous vehicle technology and smart transportation systems."
+  },
+  {
+    "id": 14,
+    "name": "GreenEnergy Corp",
+    "location": "Portland",
+    "industry": "Energy",
+    "website": "https://greenenergy.example.com",
+    "description": "Renewable energy solutions and sustainable power generation."
+  },
+  {
+    "id": 15,
+    "name": "FoodHub Delivery",
+    "location": "Denver",
+    "industry": "Food & Beverage",
+    "website": "https://foodhub.example.com",
+    "description": "Restaurant delivery platform and food logistics services."
+  },
+  {
+    "id": 16,
+    "name": "BuildRight Construction",
+    "location": "Houston",
+    "industry": "Construction",
+    "website": "https://buildright.example.com",
+    "description": "Commercial and residential construction management services."
+  },
+  {
+    "id": 17,
+    "name": "MediaStream Studios",
+    "location": "Los Angeles",
+    "industry": "Entertainment",
+    "website": "https://mediastream.example.com",
+    "description": "Digital content creation and streaming media production."
+  },
+  {
+    "id": 18,
+    "name": "SecureBank Digital",
+    "location": "Charlotte",
+    "industry": "Finance",
+    "website": "https://securebank.example.com",
+    "description": "Digital banking solutions and financial technology services."
+  },
+  {
+    "id": 19,
+    "name": "FitLife Wellness",
+    "location": "Phoenix",
+    "industry": "Healthcare",
+    "website": "https://fitlife.example.com",
+    "description": "Fitness technology and wellness management platform."
+  },
+  {
+    "id": 20,
+    "name": "SmartHome Systems",
+    "location": "Seattle",
+    "industry": "Technology",
+    "website": "https://smarthome.example.com",
+    "description": "IoT devices and home automation solutions."
+  },
+  {
+    "id": 21,
+    "name": "Fashion Forward",
+    "location": "New York",
+    "industry": "Retail",
+    "website": "https://fashionforward.example.com",
+    "description": "Online fashion retailer with AI-powered styling recommendations."
+  },
+  {
+    "id": 22,
+    "name": "AeroSpace Dynamics",
+    "location": "Seattle",
+    "industry": "Aerospace",
+    "website": "https://aerospace.example.com",
+    "description": "Aircraft manufacturing and aerospace engineering services."
+  },
+  {
+    "id": 23,
+    "name": "AgriTech Solutions",
+    "location": "Des Moines",
+    "industry": "Agriculture",
+    "website": "https://agritech.example.com",
+    "description": "Smart farming technology and precision agriculture tools."
+  },
+  {
+    "id": 24,
+    "name": "LegalEase Platform",
+    "location": "Washington DC",
+    "industry": "Legal Services",
+    "website": "https://legalease.example.com",
+    "description": "Legal tech platform for document automation and case management."
+  },
+  {
+    "id": 25,
+    "name": "TravelWise Booking",
+    "location": "Miami",
+    "industry": "Travel & Tourism",
+    "website": "https://travelwise.example.com",
+    "description": "Travel booking platform and vacation planning services."
+  },
+  {
+    "id": 26,
+    "name": "CyberShield Security",
+    "location": "San Francisco",
+    "industry": "Technology",
+    "website": "https://cybershield.example.com",
+    "description": "Cybersecurity solutions and threat intelligence services."
+  },
+  {
+    "id": 27,
+    "name": "PropTech Realty",
+    "location": "Austin",
+    "industry": "Real Estate",
+    "website": "https://proptech.example.com",
+    "description": "Real estate technology platform and property management software."
+  },
+  {
+    "id": 28,
+    "name": "BioPharm Research",
+    "location": "Boston",
+    "industry": "Healthcare",
+    "website": "https://biopharm.example.com",
+    "description": "Pharmaceutical research and biotechnology development."
+  },
+  {
+    "id": 29,
+    "name": "GameForge Studios",
+    "location": "Los Angeles",
+    "industry": "Entertainment",
+    "website": "https://gameforge.example.com",
+    "description": "Video game development and interactive entertainment."
+  },
+  {
+    "id": 30,
+    "name": "EcoPackaging Co",
+    "location": "Portland",
+    "industry": "Manufacturing",
+    "website": "https://ecopackaging.example.com",
+    "description": "Sustainable packaging solutions and eco-friendly materials."
+  },
+  {
+    "id": 31,
+    "name": "InsureTech Plus",
+    "location": "Hartford",
+    "industry": "Finance",
+    "website": "https://insuretech.example.com",
+    "description": "Insurance technology and risk management solutions."
+  },
+  {
+    "id": 32,
+    "name": "CloudKitchen Network",
+    "location": "Chicago",
+    "industry": "Food & Beverage",
+    "website": "https://cloudkitchen.example.com",
+    "description": "Ghost kitchen operations and delivery-only restaurant services."
+  },
+  {
+    "id": 33,
+    "name": "RoboTech Industries",
+    "location": "Detroit",
+    "industry": "Manufacturing",
+    "website": "https://robotech.example.com",
+    "description": "Industrial robotics and automation engineering."
+  },
+  {
+    "id": 34,
+    "name": "EduPrime Academy",
+    "location": "Philadelphia",
+    "industry": "Education",
+    "website": "https://eduprime.example.com",
+    "description": "K-12 online education and virtual classroom platform."
+  },
+  {
+    "id": 35,
+    "name": "SolarTech Energy",
+    "location": "Phoenix",
+    "industry": "Energy",
+    "website": "https://solartech.example.com",
+    "description": "Solar panel manufacturing and renewable energy installation."
+  },
+  {
+    "id": 36,
+    "name": "LogisticsPro",
+    "location": "Dallas",
+    "industry": "Logistics",
+    "website": "https://logisticspro.example.com",
+    "description": "Supply chain management and freight forwarding services."
+  }
+]

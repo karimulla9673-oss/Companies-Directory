@@ -128,7 +128,7 @@ export default function App() {
 
       <footer className="bg-white border-t border-gray-200 mt-12">
         <div className="container mx-auto px-4 py-6 text-center text-gray-600">
-          <p>© 202 Companies Directory. All rights reserved.</p>
+          <p>© 2025 Companies Directory. All rights reserved.</p>
         </div>
       </footer>
     </div>
